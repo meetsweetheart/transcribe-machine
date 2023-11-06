@@ -1,3 +1,11 @@
+title: transcibe machine
+emoji: 📊
+colorFrom: blue
+colorTo: gray
+sdk: gradio
+sdk_version: 4.1.1
+app_file: app.py
+pinned: false
 # Whisper JAX
 
 This repository contains optimised JAX code for OpenAI's [Whisper Model](https://arxiv.org/abs/2212.04356), largely built 
